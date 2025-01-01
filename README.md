@@ -52,16 +52,6 @@ This project focuses on analyzing customer churn for **Databel**, a leading tele
 
 ---
 
-## Deliverables
-- **Executive Dashboard**:
-  - Visual summaries of churn rates, key drivers, and customer segments.
-- **Detailed Report**:
-  - In-depth answers to key questions with supporting visuals.
-- **Supporting Files**:
-  - Includes cleaned data, PivotTables, DAX calculations, and visualizations.
-
----
-
 ## Tools Used
 - **Microsoft Excel**:
   - PivotTables
