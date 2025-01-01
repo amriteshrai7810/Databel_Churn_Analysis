@@ -13,6 +13,9 @@ This project focuses on analyzing customer churn for **Databel**, a leading tele
   - Examine patterns in churn based on demographics, contract types, and payment methods.
 - **Provide Recommendations**:
   - Devise strategies to reduce churn and improve customer loyalty.
+ 
+![reprot_full](https://github.com/user-attachments/assets/8094ea1e-1303-4fd3-9d2b-e2c585459122)
+
 
 ---
 
