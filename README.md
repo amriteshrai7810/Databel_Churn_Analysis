@@ -2,6 +2,8 @@
 
 This project focuses on analyzing customer churn for **Databel**, a leading telecommunications provider. Using **Advanced Excel** and data analytics techniques, the study aims to uncover the drivers of churn and provide actionable insights to improve customer retention.
 
+Dashboard Link: [Telecom Churn Analysis Live Dashboard](https://1drv.ms/x/c/f7b6f4461d511de9/IQCU2yI9eMzEQKKJoyQoeAA_ATyPZmEddHA_6OAXutyK7PQ?e=j0eGxl)
+
 ---
 
 ## Objective
